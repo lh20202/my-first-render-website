@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: my-first-render-website
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
